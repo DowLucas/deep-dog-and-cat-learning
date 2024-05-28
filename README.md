@@ -1,5 +1,5 @@
 # deep-dog-and-cat-learning
-Most of the experimental results can be found in result_notebooks. 
+Most of the experimental results can be found in result_notebooks. The graphs have not been added to the repository.
 
 ## Install images
  $ tar xvfz annotations.tar.gz 
