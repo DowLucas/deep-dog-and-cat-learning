@@ -1,4 +1,5 @@
 # deep-dog-and-cat-learning
+Most of the experimental results can be found in result_notebooks. 
 
 ## Install images
  $ tar xvfz annotations.tar.gz 
